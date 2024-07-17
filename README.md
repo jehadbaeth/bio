@@ -1,11 +1,35 @@
-# Jehad 
 
+# Jehad 
+&emsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![Clarity](https://img.shields.io/badge/Clarity-F46D01)
+![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 
 Welcome - I’m Jehad, a security auditor, software engineer, PhD and a published author. This is my public profile where I will share the highlights of my work. 
 
 Leveraging my extensive experience in software development, I transitioned into the security field four years ago as a Security Researcher and Engineer at Thesis Defense, the security auditing arm of Thesis Inc.  Since then, I have honed my skills as a security auditor, auditing a diverse range of dozens of technologies across multiple blockchain ecosystems, including Ethereum, Cosmos, Mina, Tezos, Filecoin, and Stacks.  This experience has instilled in me the importance of continuous learning and staying abreast of the latest advancements in blockchain technology and cryptography.
 
 I am passionate about safeguarding internet freedom and fostering a more secure online landscape.  Through my work securing decentralized technologies, I strive to improve information quality and data privacy.
+
+## Expertise
+
+| Expertise           | 
+| ------------------- | 
+| **Smart Contracts**    | 
+| **dApps** | 
+| **Wallets** | 
+| **Browser Extensions**     |
+| **Cryptography**     |
+| **Consensus Protocols**     |
+| **Bridges**     | 
 
 ## Public Audit Reports:
 
@@ -35,43 +59,21 @@ I am passionate about safeguarding internet freedom and fostering a more secure 
 |[Ethereum Foundation](https://ethereum.org/en/foundation/) |ethdo|November 2020|[:page_facing_up:](audits/LeastAuthority_Ethereum_Foundation_ethdo_Audit_Report.pdf)|Type|Language|
 
 
-## Expertise
-
-| Expertise           | 
-| ------------------- | 
-| **Smart Contracts**    | 
-| **dApps** | 
-| **Wallets** | 
-| **Browser Extensions**     |
-| **Cryptography**     |
-| **Consensus Protocols**     |
-| **Bridges**     | 
-
-| Languages           | 
-| ------------------- | 
-| **JavaScript**    | 
-| **TypeScript** | 
-| **Java** | 
-| **Go**     | 
-| **Clarity**     | 
-| **Rust**     |
-| **Python**     |  
-
-
-
 ## Publications
 
-Soon...
+### Academic
 
-## Bug Bounties
+1.	M. J. Baeth, ‘Provenance use in social media software to develop methodologies for detection of information pollution (Provenans kullanılarak sosyal medya yazılımlarında bilgi kirliliğinin ve telif hakları ihlallerinin tespiti için yöntemler geliştirilmesi)’, Yıldız Technical University, Turkey, 2019.
+2.	M. J. Baeth and M. S. Aktas, ‘Detecting misinformation in social networks using provenance data’, Concurr. Comput. Pract. Exp., vol. 31, no. 3, 2019.
+3.	M. J. Baeth and M. S. Aktas, ‘An approach to custom privacy policy violation detection problems using big social provenance data’, Concurr. Comput. Pract. Exp., vol. 30, no. 21, 2018.
+4.	M. Riveni, M. J. Baeth, M. S. Aktas, and S. Dustdar, ‘Provenance in Social Computing: A Case Study’, in 13th International Conference on Semantics, Knowledge and Grids, SKG 2017, Beijing, China, August 13-14, 2017, 2017, pp. 77–84.
+5.	M. J. Baeth and M. S. Aktas, ‘Detecting Misinformation in Social Networks Using Provenance Data’, in 13th International Conference on Semantics, Knowledge and Grids, SKG 2017, Beijing, China, August 13-14, 2017, 2017, pp. 85–89.
+6.	Y. Tas, M. J. Baeth, and M. S. Aktas, ‘An Approach to Standalone Provenance Systems for Big Social Provenance Data’, in 12th International Conference on Semantics, Knowledge and Grids, SKG 2016, Beijing, China, August 15-17, 2016, 2016, pp. 9–16.
+7.	M. J. Baeth and M. S. Aktas, ‘On the Detection of Information Pollution and Violation of Copyrights in the Social Web’, in 8th IEEE International Conference on Service-Oriented Computing and Applications, SOCA 2015, Rome, Italy, October 19-21, 2015, 2015, pp. 252–254.
 
-| Project | Vulnerability | Severity | Platform | Report |
-| ------- | ------------- | -------- | -------- | ------ |
-| Soon... |               | Critical |          |        |
-| Soon... |               | Critical |          |        |
-| Soon... |               | Critical |          |        |
-| Soon... |               | Low      |          |        |
+### Blog
 
+- [Building a Crypto Wallet? Consider These 10 Security Issues](https://medium.com/thesis-defense/building-a-crypto-wallet-consider-these-10-security-issues-32fcaacc26af)
 
 ## Keywords
 
