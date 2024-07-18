@@ -35,7 +35,7 @@ I am passionate about safeguarding internet freedom and fostering a more secure 
 
 | Client	| Project Name	| Date	| Report	| Type      |Language |
 |-----------|---------------|-------|-----------|-----------|---------|
-| [POKT Network](https://www.pokt.network/)|	Ring-go |	July 2024|	[:page_facing_up:](PDFs/240704_Thesis_Defense-Pokt_Network_ring-go_Security_Audit_Report.pdf)	| Linkable Ring Signatures Cryptographic Implementation|Go |
+| [POKT Network](https://www.pokt.network/)|	Ring-go |	July 2024|	[:page_facing_up:](https://github.com/pokt-network/ring-go/blob/master/audits/240704_Thesis_Defense-Pokt_Network_Ring-Go_Security_Audit_Report.pdf)	| Linkable Ring Signatures Cryptographic Implementation|Go |
 |[Velar Labs](https://www.velar.co/)	|Clarity Smart Contracts	|May 2024	| Private |	 Smart Contracts| Clarity |
 |[Zest Protocol](https://www.zestprotocol.com/)	|Zest Protocol Smart Contracts	| April-May, 2024|	[:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/240509_Thesis_Defense-Zest_Protocol_Smart_Contracts_Security_Audit_Report.pdf)	|  Smart Contracts | Clarity|
 |[Ordiswap](https://ordiswap.fi/)| 	Frontend + Backend 2.0 Implementation |	March 2024 |	Private |	Bitcoin + BRC Bridge | TypeScript/JavaScript|
