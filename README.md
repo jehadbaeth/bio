@@ -56,7 +56,7 @@ I am passionate about safeguarding internet freedom and fostering a more secure 
 |[Leather](https://leather.io/) | Hiro Wallet(Leather)|April 2021|[:page_facing_up:](audits/LeastAuthority_Hiro_Stacks_Wallet_Extension_Final_Audit_Report.pdf)|Wallet|JavaScript|
 |[Blox](https://www.bloxstaking.com/)|Blox Staking Wallet |March 2021|[:page_facing_up:](audits/LeastAuthority_Blox_Staking_Wallet_Final_Audit_Report.pdf)|Wallet|JavaScript|
 |[Atomic Wallet](https://atomicwallet.io/)|Atomic Wallet |March 2021|Private|Mobile Wallet|Javascript|
-|[Ethereum Foundation](https://ethereum.org/en/foundation/) |ethdo|November 2020|[:page_facing_up:](audits/LeastAuthority_Ethereum_Foundation_ethdo_Audit_Report.pdf)|Type|Language|
+|[Ethereum Foundation](https://ethereum.org/en/foundation/) |ethdo|November 2020|[:page_facing_up:](audits/LeastAuthority_Ethereum_Foundation_ethdo_Audit_Report.pdf)|Design Review|Language|
 
 
 ## Publications
