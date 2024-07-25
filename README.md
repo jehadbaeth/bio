@@ -33,7 +33,6 @@ I am passionate about safeguarding internet freedom and fostering a more secure 
 
 ## Public Audit Reports:
 
-https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/240711_Thesis_Defense-Velar_Clarity_Smart_Contracts_Security_Audit_Report.pdf
 
 | Client	| Project Name	| Date	| Report	| Type      |Language |
 |-----------|---------------|-------|-----------|-----------|---------|
