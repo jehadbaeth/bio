@@ -45,7 +45,7 @@ I am passionate about safeguarding internet freedom and fostering a more secure 
 |[Generative Labs](https://www.generativelabs.co/) |Web3MQ MetaMask Snap Implementation | September 2023 | [:page_facing_up:](https://leastauthority.com/wp-content/uploads/2023/09/Generative_Labs_Web3MQ_Snap_Final_Audit_Report_Least_Authority.pdf)|MetaMask Snap|Javascript|
 |[Avalabs](https://www.avalabs.org/) |Avalanche Browser Extension and SDK | December 2023|[:page_facing_up:](PDFs/151223_Ava-Labs_Avalanche-BrowserExtension-and_SDK-3rd-Review_Final-Audit-Report.pdf)|Wallet + SDK| TypeScript|
 |[Blockchain Lab](https://www.blockchainlab.com/) |Masca Snap|September 2023|[:page_facing_up:](PDFs/Blockchain_Lab_Masca_MetaMask_Snap_Final_Audit_Report_Least_Authority.pdf)|MetaMask Snap|Javascript|
-|[XMTP](https://xmtp.org/)|XMPT Snap|August 2023|[:page_facing_up:]()|MetaMask Snap|Javascript|
+|[XMTP](https://xmtp.org/)|XMPT Snap|August 2023|[:page_facing_up:](https://leastauthority.com/wp-content/uploads/2023/09/XMTP_MetaMask_Snap_Final_Audit_Report_Least_Authority.pdf)|MetaMask Snap|Javascript|
 |[Staging Labs](https://www.staginglabs.io/) | Saferoot Snap| August 2023|[:page_facing_up:](PDFs/Staging_Labs_Saferoot_Snap_Final_Audit_Report_Least-Authority.pdf)|MetaMask Snap|Javascript|
 |[Blockfence](https://blockfence.io/) |Blockfence Snap|July 2023|[:page_facing_up:](PDFs/Blockfence_Metamask_Snap_Final_Audit_Report_Least_Authority.pdf)|MetaMask Snap|Javascript|
 [Taho](https://taho.xyz/) |Tally Wallet |July 2023|[:page_facing_up:](PDFs/Thesis_Taho_Wallet_Extension_Final_Audit_Report_Least-Authority.pdf)|Wallet|JS|
