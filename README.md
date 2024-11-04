@@ -36,13 +36,13 @@ I am passionate about safeguarding internet freedom and fostering a more secure 
 
 | Client	| Project Name	| Date	| Report	| Type      |Language |
 |-----------|---------------|-------|-----------|-----------|---------|
-|[Velar Labs](https://www.velar.co/)	|Clarity Smart Contracts	|May 2024	| [:page_facing_up:](PDFs/240711_Thesis_Defense-Velar_Clarity_Smart_Contracts_Security_Audit_Report.pdf) |	 Smart Contracts| Clarity |
-| [POKT Network](https://www.pokt.network/)|	Ring-go |	July 2024|	[:page_facing_up:](https://github.com/pokt-network/ring-go/blob/master/audits/240704_Thesis_Defense-Pokt_Network_Ring-Go_Security_Audit_Report.pdf)	| Linkable Ring Signatures Cryptographic Implementation|Go |
+|[Velar Labs](https://www.velar.co/)	|Clarity Smart Contracts	|May 2024	| Private |	 Smart Contracts| Clarity |
+|[POKT Network](https://www.pokt.network/)|	Ring-go |	July 2024|	[:page_facing_up:](https://github.com/pokt-network/ring-go/blob/master/audits/240704_Thesis_Defense-Pokt_Network_Ring-Go_Security_Audit_Report.pdf)	| Linkable Ring Signatures Cryptographic Implementation|Go |
 |[Zest Protocol](https://www.zestprotocol.com/)	|Zest Protocol Smart Contracts	| April-May, 2024|	[:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/240509_Thesis_Defense-Zest_Protocol_Smart_Contracts_Security_Audit_Report.pdf)	|  Smart Contracts | Clarity|
 |[Ordiswap](https://ordiswap.fi/)| 	Frontend + Backend 2.0 Implementation |	March 2024 |	Private |	Bitcoin + BRC Bridge | TypeScript/JavaScript|
 |[POKT Network](https://www.pokt.network/)	| Sparse Merkle Trie (SMT)|	February 2024 |	[:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/240612_Thesis_Defense-Pokt_Network_Sparse_Merkel_Trie_Security_Audit_Report.pdf)	| Sparse Merkle Trie Cryptographic Implementation| Go |
 |[MetaMask](https://metamask.io/) |Snaps Extension Integration|September 2023|[:page_facing_up:](PDFs/Metamask_Snaps_Extension_Integration_Final_Audit_Report_Least_Authority.pdf)|Browser Extension|Javascript|
-|[Generative Labs](https://www.generativelabs.co/) |Web3MQ MetaMask Snap Implementation | September 2023 | [:page_facing_up:](audits/Generative_Labs_Web3MQ_Snap_Final_Audit_Report_Least_Authority.pdf)|MetaMask Snap|Javascript|
+|[Generative Labs](https://www.generativelabs.co/) |Web3MQ MetaMask Snap Implementation | September 2023 | [:page_facing_up:](https://leastauthority.com/wp-content/uploads/2023/09/Generative_Labs_Web3MQ_Snap_Final_Audit_Report_Least_Authority.pdf)|MetaMask Snap|Javascript|
 |[Avalabs](https://www.avalabs.org/) |Avalanche Browser Extension and SDK | December 2023|[:page_facing_up:](PDFs/151223_Ava-Labs_Avalanche-BrowserExtension-and_SDK-3rd-Review_Final-Audit-Report.pdf)|Wallet + SDK| TypeScript|
 |[Blockchain Lab](https://www.blockchainlab.com/) |Masca Snap|September 2023|[:page_facing_up:](PDFs/Blockchain_Lab_Masca_MetaMask_Snap_Final_Audit_Report_Least_Authority.pdf)|MetaMask Snap|Javascript|
 |[XMTP](https://xmtp.org/)|XMPT Snap|August 2023|[:page_facing_up:]()|MetaMask Snap|Javascript|
